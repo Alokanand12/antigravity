@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Vane — Architecture & Spatial Curation",
+  "description": "Monographic spatial portfolio, tectonic materiality ledger, and architectural case studies by Atelier Vane.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
